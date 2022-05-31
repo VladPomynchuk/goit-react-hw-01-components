@@ -7,7 +7,6 @@ const Section = ({ children }) => {
 
 Section.propTypes = {
   children: PropTypes.node,
-  bgc: PropTypes.string,
 };
 
 export default Section;
